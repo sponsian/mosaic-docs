@@ -1,17 +1,13 @@
 # Brand Assets
 
-### LQTY and LUSD Icons
+### MSIC和MEUR图标
 
-You can download LQTY and LUSD icons [here](https://drive.google.com/file/d/1dUIE-Cx6wRJEHGv8UfSw9mLaBwrKJc5g/view?usp=sharing).&#x20;
+代币图标和品牌资产将在最终确定后提供下载。
 
-### Logos
+### 标志
 
-* [Logo — no text](https://drive.google.com/file/d/1LRMblHay8nkOxSgUOE6QPQ0hvmcR8pHg/view?usp=sharing)
-* [Logo — black text](https://drive.google.com/file/d/1fbHETkBVGkVgipp7rpUe91JODu1GJQkl/view?usp=sharing)
-* [Logo — white text](https://drive.google.com/file/d/1qxxhA8amqvoMCCrOe7EjqIidwzUaC8fK/view?usp=sharing)
-* [Colors](https://colorpeek.com/#293147,2eb6ea,1542cd,745ddf)
+Mosaic标志资产将在此处发布。请稍后回来查看，或通过[Discord](https://discord.gg/KJ89PuzvkJ)联系团队获取品牌资产。
 
-### Press Kit
+### 品牌颜色
 
-You can download and view the Liquity press kit [here](https://uploads-ssl.webflow.com/5fd883457ba5da4c3822b02c/6011885fae7ee22bd6732e34\_liquity\_press\_kit.pdf).&#x20;
-
+Mosaic使用独特的颜色方案。完整的品牌指南将在此处发布。

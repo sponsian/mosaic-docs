@@ -1,31 +1,37 @@
 ---
-description: Collection of technical resources about the Liquity protocol.
+description: Mosaic协议技术资源汇总
 ---
 
 # Technical Resources
 
-A technical system summary including contract descriptions, function descriptions, and more is available in the [**Liquity README**](https://github.com/liquity/beta/blob/main/README.md).&#x20;
+## 关于Mosaic
 
-## Technical papers
+Mosaic是一种基于Reef Chain的去中心化借贷协议。用户可以存入REEF作为抵押品来借入MEUR，一种与欧元挂钩的稳定币。
 
-#### [Whitepaper](https://docsend.com/view/bwiczmy)
+### 主要特点
 
-[**Scalable Reward Distribution with Compounding Stakes**](https://github.com/liquity/liquity/blob/master/papers/Scalable\_Reward\_Distribution\_with\_Compounding\_Stakes.pdf) (see this [article](https://medium.com/liquity/scaling-liquitys-stability-pool-c4c6572cf275) for a simpler introduction)
+- **0%利率**：借入MEUR无需支付持续利息
+- **110%最低抵押率**：资本高效的借贷
+- **无治理**：完全算法化和不可变
+- **欧元挂钩稳定币**：MEUR提供欧元计价的稳定性
 
-#### [Efficient Order-Preserving Redistribution of Troves](https://github.com/liquity/liquity/blob/master/papers/Efficient\_Order-Preserving\_Redistribution\_of\_Troves.pdf)
+## 智能合约
 
-## Economic modelling and simulation
+合约地址将在Mosaic部署到Reef Chain后公布。
 
-#### [Liquity Market Risk Assessment by Gauntlet Networks](https://liquity-report.gauntlet.network/)
+## 协议参数
 
-#### [Macroeconomic Model of Liquity by Prof. Yulin Liu](https://colab.research.google.com/drive/1AyhFfE\_EKCcMO6HeG04Se3hbraTxODWU?usp=sharing) &#x20;
+| 参数 | 值 |
+| --- | --- |
+| 最低抵押率 | 110% |
+| 复原模式阈值 | 150% |
+| 最低债务 | 200 MEUR |
+| 清算准备金 | 2 MEUR |
+| 借款费用范围 | 0.5% - 5% |
+| 赎回费用最低 | 0.5% |
+| MSIC最大供应量 | 100,000,000 |
 
-## Security audits
+## Reef Chain资源
 
-[**Trail of Bits Security Assessment**](https://github.com/trailofbits/publications/blob/master/reviews/Liquity.pdf) January 2021
-
-[**Audit by Coinspect**](https://www.coinspect.com/liquity-audit/) March 2021
-
-## Code base
-
-#### [Github Repository](https://github.com/liquity/liquity)
+- [Reef Chain文档](https://docs.reef.io/)
+- [ReefScan区块浏览器](https://reefscan.com/)

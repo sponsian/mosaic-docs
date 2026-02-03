@@ -1,25 +1,23 @@
-# LQTY Staking
+# MSIC Staking
 
-All of the revenue the protocol makes is diverted to LQTY stakers. By staking LQTY you are entitled to a pro-rate share of it.
+All of the revenue the protocol makes is diverted to MSIC stakers. By staking MSIC you are entitled to a pro-rata share of it.
 
-### How does staking work in Liquity?&#x20;
+### How does staking work in Mosaic?
 
-To start staking all you need to do is deposit your LQTY token to the Liquity staking contract. Once done you will start earning a pro rata share of the borrowing and redemption fees in LUSD and ETH.
+To start staking all you need to do is deposit your MSIC token to the Mosaic staking contract. Once done you will start earning a pro rata share of the borrowing and redemption fees in MEUR and REEF.
 
-For more details watch this step-by-step [video](https://youtu.be/hlUoHh\_5Jn8).
+### How much will my staked MSIC earn?
 
-### How much will my staked LQTY earn?&#x20;
-
-Your LQTY stake will earn a share of the fees equal to your share of the total LQTY staked, at the instant the fee occurred.
+Your MSIC stake will earn a share of the fees equal to your share of the total MSIC staked, at the instant the fee occurred.
 
 ### Is there a lock-up period?
 
 No, you can withdraw your staked funds at any time.
 
-### Can I stake LUSD?&#x20;
+### Can I stake MEUR?
 
-You can only stake LQTY tokens. LUSD can be deposited into the [Stability Pool](stability-pool-and-liquidations.md#what-is-the-stability-pool) instead.&#x20;
+You can only stake MSIC tokens. MEUR can be deposited into the [Stability Pool](stability-pool-and-liquidations.md#what-is-the-stability-pool) instead.
 
-### Are staked LQTY tokens used to backstop the system (like Maker) or for governance?&#x20;
+### Are staked MSIC tokens used to backstop the system or for governance?
 
-No, staked LQTY are not used to backstop the Liquity system and are not used for governance as there is no Liquity governance.&#x20;
+No, staked MSIC are not used to backstop the Mosaic system and are not used for governance as there is no Mosaic governance.
