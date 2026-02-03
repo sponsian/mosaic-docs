@@ -1,3 +1,10 @@
+---
+layout: default
+title: Borrowing
+parent: English
+nav_order: 2
+---
+
 # Borrowing
 
 ### **Why would I use Mosaic for borrowing?**

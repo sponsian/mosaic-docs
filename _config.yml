@@ -1,0 +1,87 @@
+# Site settings
+title: Mosaic Documentation
+description: Official documentation for Mosaic Protocol - a decentralized borrowing protocol on Reef Chain
+url: "https://docs.mosaic.markets"
+baseurl: ""
+
+# Theme - using Just the Docs for clean documentation
+remote_theme: just-the-docs/just-the-docs@v0.8.2
+
+# Logo and branding
+logo: "/assets/images/logo.png"
+favicon_ico: "/assets/images/favicon.ico"
+
+# Color scheme
+color_scheme: dark
+
+# Aux links (top right)
+aux_links:
+  "Launch App": "https://mosaic.markets"
+  "Discord": "https://discord.gg/KJ89PuzvkJ"
+
+aux_links_new_tab: true
+
+# Footer content
+footer_content: "Mosaic Protocol &copy; 2024. Distributed under the MIT license."
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Search
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# Collections for multi-language support
+collections:
+  english:
+    output: true
+    permalink: /:collection/:path/
+  chinese:
+    output: true
+    permalink: /:collection/:path/
+  spanish:
+    output: true
+    permalink: /:collection/:path/
+
+# Default front matter
+defaults:
+  - scope:
+      path: "english"
+    values:
+      layout: default
+      parent: English
+      grand_parent: Documentation
+  - scope:
+      path: "chinese"
+    values:
+      layout: default
+      parent: 中文
+      grand_parent: Documentation
+  - scope:
+      path: "spanish"
+    values:
+      layout: default
+      parent: Español
+      grand_parent: Documentation
+
+# Exclude from processing
+exclude:
+  - .gitbook.yaml
+  - .gitbook/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag

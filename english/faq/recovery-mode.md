@@ -1,3 +1,10 @@
+---
+layout: default
+title: Recovery Mode
+parent: English
+nav_order: 7
+---
+
 # Recovery Mode
 
 ### What is Recovery Mode?

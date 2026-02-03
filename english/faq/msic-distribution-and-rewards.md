@@ -1,3 +1,10 @@
+---
+layout: default
+title: MSIC Rewards
+parent: English
+nav_order: 5
+---
+
 # MSIC Rewards and Distribution
 
 ### What is MSIC?

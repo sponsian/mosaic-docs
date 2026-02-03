@@ -1,3 +1,10 @@
+---
+layout: default
+title: Community Resources
+parent: English
+nav_order: 9
+---
+
 # Community Resources
 
 ## Official Channels

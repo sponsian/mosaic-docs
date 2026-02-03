@@ -1,3 +1,10 @@
+---
+layout: default
+title: Redemptions & MEUR Stability
+parent: English
+nav_order: 4
+---
+
 # Redemptions and MEUR Price Stability
 
 ### How does MEUR closely follow the price of EUR?

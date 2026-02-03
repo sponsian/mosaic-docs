@@ -1,3 +1,10 @@
+---
+layout: default
+title: Brand Assets
+parent: English
+nav_order: 10
+---
+
 # Brand Assets
 
 ### MSIC and MEUR Icons

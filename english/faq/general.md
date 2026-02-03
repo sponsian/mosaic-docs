@@ -1,3 +1,10 @@
+---
+layout: default
+title: General
+parent: English
+nav_order: 1
+---
+
 # General
 
 ### **What is Mosaic?**

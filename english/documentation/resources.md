@@ -1,4 +1,8 @@
 ---
+layout: default
+title: Technical Resources
+parent: English
+nav_order: 8
 description: Collection of technical resources about the Mosaic protocol.
 ---
 

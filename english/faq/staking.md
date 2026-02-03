@@ -1,3 +1,10 @@
+---
+layout: default
+title: MSIC Staking
+parent: English
+nav_order: 6
+---
+
 # MSIC Staking
 
 All of the revenue the protocol makes is diverted to MSIC stakers. By staking MSIC you are entitled to a pro-rata share of it.

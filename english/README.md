@@ -1,3 +1,11 @@
+---
+layout: default
+title: English
+nav_order: 2
+has_children: true
+permalink: /english/
+---
+
 # Official Mosaic Documentation
 
 Mosaic is a decentralized borrowing protocol built on Reef Chain that allows you to draw [interest-free](faq/borrowing.md#how-can-the-protocol-offer-interest-free-borrowing) loans against REEF used as [collateral](faq/borrowing.md#what-do-you-mean-by-collateral). Loans are paid out in MEUR (a Euro pegged stablecoin) and need to maintain a [minimum collateral ratio](faq/borrowing.md#what-is-the-minimum-collateral-ratio-mcr-and-the-recommended-collateral-ratio) of 110%.

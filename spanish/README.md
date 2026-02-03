@@ -1,3 +1,11 @@
+---
+layout: default
+title: Español (Spanish)
+nav_order: 4
+has_children: true
+permalink: /spanish/
+---
+
 # Documentación Oficial de Mosaic
 
 Mosaic es un protocolo de préstamos descentralizado construido en Reef Chain que te permite obtener préstamos sin intereses usando REEF como colateral. Los préstamos se pagan en MEUR (una moneda estable vinculada al Euro) y requieren mantener una relación de colateral mínima del 110%.

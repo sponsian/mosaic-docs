@@ -1,3 +1,10 @@
+---
+layout: default
+title: Stability Pool & Liquidations
+parent: English
+nav_order: 3
+---
+
 # Stability Pool and Liquidations
 
 ### What is the Stability Pool?

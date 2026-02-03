@@ -1,3 +1,11 @@
+---
+layout: default
+title: 中文 (Chinese)
+nav_order: 3
+has_children: true
+permalink: /chinese/
+---
+
 # Mosaic官方说明
 
 Mosaic是一种基于Reef Chain的去中心化借贷协议，让您用REEF作抵押提取无息贷款。贷款以MEUR（一种与欧元挂钩的稳定币）的形式支付，并且要求110％的最低抵押率。
